@@ -1,5 +1,6 @@
 ## Hi.. I'm ROHIT POTHAL
 **MCA student**
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/official.rohit.12) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rohit-pothal-092266211) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jewels_india_22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rohitpothal.pothal@gmail.com) 
 
@@ -13,6 +14,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Rohit235689&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+## 🏆 Achievements
+- 🎖️ Google Android Development
+-(Virtual Internship - EduSkills). •Gained hands-on experience with Android Studio, Jetpack components, and Material Design principles. •Demonstrated practical understanding of debugging, app
+performance optimization, and publishing apps to the Play Store.
+- 🎖️ IBM Data Analytics
+-Gained hands-on experience with Excel, Python, SQL, and data visualization tools like Matplotlib, Seaborn, and
+IBM Cognos Analytics. • Performed data wrangling, cleansing, and exploratory analysis on real-world datasets.
+
+## ❤️ Interests
+- Open Source Contribution
+  
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Rohit235689&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
